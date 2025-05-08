@@ -107,6 +107,7 @@ p {
 .header_box {
   position: relative;
   display: flex;
+  justify-content: space-between;
 }
 
 .logo-box {
