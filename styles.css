@@ -13,6 +13,11 @@ Do not remove the back-link in this web template
 ---------------------------------*/
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 ul {
